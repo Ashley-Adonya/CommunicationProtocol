@@ -12,7 +12,7 @@ Créer un protocole simple pouvant évoluer vers des fonctionnalités avancées 
 
 ## Architecture du dépôt
 .
-├── client.py     # Client TCP permettant d’envoyer des messages au serveur  
+├── client.py     # Client TCP permettant d’envoyer des messages au serveur 
 └── server.py     # Serveur TCP capable de recevoir et traiter des messages
 ## Fonctionnement général
 
