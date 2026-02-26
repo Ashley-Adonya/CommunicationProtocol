@@ -11,7 +11,6 @@ Mettre en place une logique d’envoi/réception de messages.
 Créer un protocole simple pouvant évoluer vers des fonctionnalités avancées (authentification, chiffrage, multiplexage, sérialisation, etc.).
 
 ## Architecture du dépôt
-.
 ├── client.py     # Client TCP permettant d’envoyer des messages au serveur  
 └── server.py     # Serveur TCP capable de recevoir et traiter des messages
 ## Fonctionnement général
